@@ -15,4 +15,6 @@ The goal of this file is to have a clean overview of what I have been doing for 
 - Time worked previous week: Not available -> First week
 
 ## Log
-| Date   | Time     | Task             || :---        | :---      | :---           || Thursday 28 September | 00:30 | Introduction about course |
+| Date   | Time     | Task             |
+| :---   | :---     | :---             |
+| Thursday 28 September | 00:30 | Introduction about course |
