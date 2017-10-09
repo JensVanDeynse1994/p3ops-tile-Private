@@ -16,9 +16,10 @@ The goal of this file is to have a clean overview of what I have been doing for 
 | Date   | Time     |
 | :---   | :---     |
 | Week 1 | 00:30    |
+| Week 2 | 01:35    |
 
 
 ## Log
 | Date   | Time     | Task             |
 | :---   | :---     | :---             |
-| Thursday 05 October | 00:35 | First skype meeting - Decided to do personal research |
+| Monday 09 October | 01:15 | Editing ReadMe.md (Overhead) |
