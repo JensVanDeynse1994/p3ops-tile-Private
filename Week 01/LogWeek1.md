@@ -3,7 +3,7 @@
 
 
 
-- Student: NAME
+- Student: Jens Van Deynse
 
 - Repository: https://github/com/JensVanDeynse1994/p3ops-tile
 

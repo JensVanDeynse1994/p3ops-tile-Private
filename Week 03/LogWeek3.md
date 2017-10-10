@@ -1,10 +1,10 @@
-# Log Week 2 - p3ops-tile
+# Log Week 3 - p3ops-tile
 
 ## Introduction
 
 
 
-- Student: NAME
+- Student: Jens Van Deynse
 
 - Repository: https://github/com/JensVanDeynse1994/p3ops-tile
 
@@ -16,10 +16,10 @@ The goal of this file is to have a clean overview of what I have been doing for 
 | Date   | Time     |
 | :---   | :---     |
 | Week 1 | 00:30    |
+| Week 2 | 01:35    |
 
 
 ## Log
 | Date   | Time     | Task             |
 | :---   | :---     | :---             |
-| Thursday 05 October | 00:35 | First skype meeting - Decided to do personal research |
-| Saturday 07 October | 00:30 | First research (GNS and LAMP stack) |
+| Monday 09 October | 01:15 | Editing ReadMe.md (Overhead) |
